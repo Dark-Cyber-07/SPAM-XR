@@ -16,17 +16,17 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from X64_NUM import xyz
+        from X64_NUM import main
  
-        xyz()
+        main()
  
  
  
 elif bit == "32bit":
  
-        from X32_NUM import xyz
+        from X32_NUM import main
  
  
-        xyz()
+        main()
  
 
