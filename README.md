@@ -25,6 +25,7 @@ $ rm -rf SRK_NUM
 $ git clone https://github.com/NOBITA-VIRUS-XD/SRK_NUM
 $ cd SRK_NUM
 $ python FIREE.py
+$ python NUM.py
 
 Note: (This Tools Are Free, SoNo  Need Permission To Use SRK_NUM Tools Enjoy)
 
